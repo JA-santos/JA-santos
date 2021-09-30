@@ -1,9 +1,9 @@
-## Oiii! Eu sou a Jade Santos 
-<div align="center">
-  <a href="https://github.com/JA-santos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JA-santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JA-santos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## hello World, I'm Jade!!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JA-santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JA-santos&layout=compact&langs_count=7&theme=tokyonight" /></a> |
+| ------------- | ------------- |
+  
+<h2 align="center">Languages and Tools</h2>
+<h4 align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="JA-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="JA-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -13,7 +13,9 @@
 </div>
   
   ##
- 
+  
+<h2 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2> 
+<h4 align="center"> 
 <div> 
   <a href="https://www.facebook.com/profile.php?id=100029393941635" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/andreinajade/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
