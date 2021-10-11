@@ -1,4 +1,5 @@
 ## hello World, I'm Jade!!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JA-santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JA-santos&layout=compact&langs_count=7&theme=tokyonight" /></a> |
 | ------------- | ------------- |
   
